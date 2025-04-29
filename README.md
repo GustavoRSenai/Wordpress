@@ -1,7 +1,5 @@
 # O que é WordPress?
 
-![WordPress Logo](https://s.w.org/style/images/about/WordPress-logotype-wmark.png)
-
 ## 📌 Visão Geral
 
 **WordPress** é um sistema de gerenciamento de conteúdo (CMS - *Content Management System*) gratuito e de código aberto. Ele permite criar e gerenciar facilmente sites e blogs, mesmo sem conhecimento técnico em programação.
@@ -75,4 +73,6 @@ O WordPress é um projeto de código aberto. Desenvolvedores do mundo todo contr
 > "O WordPress democratiza a publicação na web."
 
 ---
+
+Caso queira ver algum site feito com wordpress, acesse o word para uma referência
 
